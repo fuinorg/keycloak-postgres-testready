@@ -32,9 +32,9 @@ Just run:
 
     docker-compose up
    
-Now you can log into your Keycloak server at http://localhost:8088/ using the defined credentials.
+Now you can log into your Keycloak server at http://localhost:8088/ using the above defined credentials.
 
-Shutdown with <CTRL>+<C> and then run:
+Shutdown with **CTRL C** and then run:
 
     docker-compose rm
 
