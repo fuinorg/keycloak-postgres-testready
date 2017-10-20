@@ -3,6 +3,10 @@ A Keycloak/PostgreSQL docker image that allows adding a test realm with preconfi
 
 [![Automated Docker Build](https://img.shields.io/docker/automated/fuinorg/keycloak-postgres-testready.svg)](https://hub.docker.com/r/fuinorg/keycloak-postgres-testready/)
 
+## STATUS
+
+![Warning](https://raw.githubusercontent.com/fuinorg/keycloak-postgres-testready/master/warning.gif) **No longer maintained** Use [keycloak-testready](https://github.com/fuinorg/keycloak-testready) instead!  ![Warning](https://raw.githubusercontent.com/fuinorg/keycloak-postgres-testready/master/warning.gif)
+
 ## Base Version
 
 - Keycloak with Postgres 3.3.0.CR1
